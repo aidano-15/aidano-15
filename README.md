@@ -19,4 +19,4 @@
 <img align="left" alt="aidano_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" /><br>
 
 ## GitHub Stats:
-<img align="left" alt="aidano-15's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aidano-15&show_icons=true&hide_border=true" />
+<img align="left" alt="aidano-15's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aidano-7&show_icons=true&hide_border=true" />
