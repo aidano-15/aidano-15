@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Aidan, [aidano-15](https://github.com/aidano-15). 
+### 👋 Hi there, I'm Aidan, [aidano-7](https://github.com/aidano-7). 
 
 ## I am a student and an aspiring programming interested in learning.
 - I am working on a math library.
