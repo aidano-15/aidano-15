@@ -8,6 +8,7 @@
 ## Connect with me:
 [<img align="left" alt="aidano_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/aidano_10/)<br>
 [<img align="left" alt="aidano_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:aidanjohnosullivan@gmail.com)
+[<img align="left" alt="aidano_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/dev-dot-to.svg" />](https://dev.to/aidano7)<br>
 <br>
 ## Languages and Tools:
 <img align="left" alt="aidano_10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /><br>
